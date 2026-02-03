@@ -26,7 +26,7 @@ Igris is an intelligent AI routing platform that optimizes LLM inference through
 
 ## Documentation Website
 
-Visit our full documentation at: https://docs.igris.ai
+Visit our full documentation at (https://docs.igrisinertial.com/runtime/docs/)
 
 ## Contributing
 
